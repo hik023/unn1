@@ -1,0 +1,10 @@
+C:\Users\aleksandrbalaev\source\repos\unn2\lab\bin\Debug\lab.exe.config
+C:\Users\aleksandrbalaev\source\repos\unn2\lab\bin\Debug\lab.exe
+C:\Users\aleksandrbalaev\source\repos\unn2\lab\bin\Debug\lab.pdb
+C:\Users\aleksandrbalaev\source\repos\unn2\lab\obj\Debug\lab.csprojResolveAssemblyReference.cache
+C:\Users\aleksandrbalaev\source\repos\unn2\lab\obj\Debug\lab.Form1.resources
+C:\Users\aleksandrbalaev\source\repos\unn2\lab\obj\Debug\lab.Properties.Resources.resources
+C:\Users\aleksandrbalaev\source\repos\unn2\lab\obj\Debug\lab.csproj.GenerateResource.Cache
+C:\Users\aleksandrbalaev\source\repos\unn2\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
+C:\Users\aleksandrbalaev\source\repos\unn2\lab\obj\Debug\lab.exe
+C:\Users\aleksandrbalaev\source\repos\unn2\lab\obj\Debug\lab.pdb
